@@ -39,6 +39,7 @@ typedef struct
 
 static const char *known_mimetypes[] = {
   "video/webm",
+  "video/mpegts",
   "multipart/x-mixed-replace",
   NULL
 };
